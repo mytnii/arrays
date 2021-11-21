@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-
+/// <summary>
+/// ///////////////////////////////////////////
+/// </summary>
+/// <returns></returns>
 int main()
 {
 	srand(time(NULL));
